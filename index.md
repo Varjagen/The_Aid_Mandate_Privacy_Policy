@@ -4,7 +4,7 @@ title: The Aid Mandate · Privacy Policy
 
 # Privacy Policy
 
-Version 1.1 · Effective date: 31 October 2026
+Version 1.1 · Effective date: 17 October 2026
 
 Draft for testing builds. To be reviewed by a qualified lawyer before public release. Also shown in the game: More, then Privacy.
 
@@ -89,6 +89,12 @@ Depending on where you live, you may have the right to ask us for access to, cor
 Your progress is kept in the game's private storage, which other apps cannot read on a normal Android device. Saves carry a check value so the game can detect a damaged file; they are not encrypted. Bug reports travel over an encrypted connection. Anyone with access to your unlocked device, or to a computer where you play, may be able to open the game and see your progress.
 
 ## Changes to this policy
+
+If we change how the game handles information, we will update this policy, give it a new version number and show it in the game before you continue playing.
+
+## Contact
+
+A Dove Takes Flight (Naut Engelsma), ADoveTakesFlight@gmail.com.
 
 If we change how the game handles information, we will update this policy, give it a new version number and show it in the game before you continue playing.
 
